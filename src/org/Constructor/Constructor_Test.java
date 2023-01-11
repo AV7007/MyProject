@@ -26,11 +26,6 @@ public class Constructor_Test {
 			}
 		}
 		System.out.println("Vowels Present 		:" + vowels);
-		System.out.println("Vowels Count 		:" + vowelCount);
-		System.out.println("Consonent Count 	:" + consonentCount);
-		System.out.println("Consonents Present 	:" + consonents);
-		System.out.println("New Modified Print Ln");
-		System.out.println("New line is added");
 	}
 
 
